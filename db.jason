@@ -1,0 +1,39 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Men in Black: International",
+      "storyline":"After an eye-opening encounter of the third kind, the secret MiB organisation's newest recruit, Agent M, finds herself under the wing of the heroic Agent H in cosmopolitan London, when a shape-shifting duo of intergalactic assassins executes an alien aristocrat. Now, with a devastating super-weapon of mass destruction hidden somewhere on Earth, the Men in Black will leave no stone unturned to retrieve it; however, heavy clouds of mistrust and a scent of betrayal envelop the once-incorruptible agency. Is there a well-placed mole in their midst?",
+      "release":"2020-06-19"
+    },
+        {
+      "id": 2,
+      "name": "Pokémon Detective Pikachu",
+      "storyline":"The film focuses on Tim Goodman and master detective Pikachu, a talking Pokémon. The two team up to clarify the disappearance of Tim's father Harry Goodman. This was the partner of master detective Pikachu and disappeared under mysterious circumstances after a car accident.",
+      "release":"2020-06-21"
+    },
+    {
+      "id": 3,
+      "name": "Spider-Man: Far from Home",
+      "storyline":"Our friendly neighborhood Super Hero decides to join his best friends Ned, MJ, and the rest of the gang on a European vacation. However, Peter's plan to leave super heroics behind for a few weeks are quickly scrapped when he begrudgingly agrees to help Nick Fury uncover the mystery of several elemental creature attacks, creating havoc across the continent.",
+      "release":"2020-06-25"
+    },
+        {
+      "id": 4,
+      "name": " The Curse of La Llorona",
+      "storyline":"Ignoring the eerie warning of a troubled mother suspected of child endangerment, a social worker and her own small kids are soon drawn into a frightening supernatural realm. Their only hope to survive La Llorona's deadly wrath may be a disillusioned priest and the mysticism he practices to keep evil at bay, on the fringes where fear and faith collide.",
+      "release":"2020-07-19"
+    },{
+      "id": 5,
+      "name": "Us",
+      "storyline":"A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them.",
+      "release":"2020-07-22"
+    },
+        {
+      "id": 6,
+      "name": "Maleficent Mistress of Evil",
+      "storyline":"Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.",
+      "release":"2020-08-17"
+        }     
+  ]
+}
